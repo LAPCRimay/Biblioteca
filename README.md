@@ -21,3 +21,5 @@ FRONT END
 	npm install @types/jquery --save-dev
 	npm install @types/datatables.net --save-dev
 6. Ingresar desde el navegador http://localhost:4200/
+
+IMPORTANTE: Ejecutar el script de base de datos en SQL Server
